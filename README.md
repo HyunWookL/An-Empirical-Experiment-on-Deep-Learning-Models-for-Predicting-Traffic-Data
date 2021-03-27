@@ -1,5 +1,5 @@
 # An Empirical Experiment on Deep Learning Models for Predicting Traffic Data
-This repository contains detailed context and experimental results of the paper "An Empirical Experiment on Deep Learning Models for Predicting Traffic Data", ICDE 2021.
+This repository contains detailed context and experimental results of the paper "An Empirical Experiment on Deep Learning Models for Predicting Traffic Data," ICDE 2021.
 
 ## Experiment Settings
 
